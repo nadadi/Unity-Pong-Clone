@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## README
 
-You can use the [editor on GitHub](https://github.com/nadadi/Unity-Pong-Clone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I want to share through this project some coding practice I made to replicate Pong Game in Unity. I made this only to have some fun making the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Social Networks
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nadadi/Unity-Pong-Clone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find me in Facebook [https://www.facebook.com/nathal.dawson], Twitter [https://twitter.com/NathalDD], Linkedin [https://www.linkedin.com/in/nathal-dawson/], or Unity Connect [https://connect.unity.com/u/596819bf32b306001aaf02ae].
