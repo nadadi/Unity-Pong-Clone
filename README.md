@@ -4,4 +4,4 @@ I want to share through this project some coding practice I made to replicate Po
 
 ### Social Networks
 
-You can find me in Facebook [https://www.facebook.com/nathal.dawson], Twitter [https://twitter.com/NathalDD], Linkedin [https://www.linkedin.com/in/nathal-dawson/], or Unity Connect [https://connect.unity.com/u/596819bf32b306001aaf02ae].
+You can find me in Facebook[https://www.facebook.com/nathal.dawson], Twitter[https://twitter.com/NathalDD], Linkedin[https://www.linkedin.com/in/nathal-dawson/], or Unity Connect[https://connect.unity.com/u/596819bf32b306001aaf02ae].
