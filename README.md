@@ -2,7 +2,7 @@
 
 I want to share through this project some coding practice I made to replicate Pong Game in Unity. I made this only to have some fun making the game.
 
-This game was made with Unity 2017.1.
+This game was made and tested with Unity 2017.1.
 
 ### Social Networks
 
